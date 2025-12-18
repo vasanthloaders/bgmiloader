@@ -1,0 +1,3 @@
+{ "dialogue": { "title": "hello", "msg": "hello world", "hook": "const-string v0, "hello"
+const-string v1, "hello world"
+invoke-static {p0, v0, v1}, Lcom/vasanth/patcher/DialogLib;->show(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V" } }
